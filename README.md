@@ -1,3 +1,4 @@
+# BMS INN, an emotion realized as a web project.
 ## Description
 
 I had created this hostel website **"BMS INN"** as my college web dev project in my 3rd semester solely on my own. It took me a month to complete this project. Being a hostelite, this project is more like an emotion to me. This website is built in **HTML**, **CSS** and **JavaScript**.
